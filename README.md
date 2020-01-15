@@ -25,9 +25,8 @@ Execution
 ```
 ### BONUS
 
-Go to the bonus directory and do the previous actions 
+Go to the bonus directory and do the previous actions.
 
 ## SCREENSHOTS
 
 ![Screenshot](screenshots/bsq_screenshot.png)
-![Screenshot](screenshots/bonus_screenshot.png)
