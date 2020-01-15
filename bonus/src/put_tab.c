@@ -26,6 +26,7 @@ void put_stat(map_info map)
     mvprintw(i + 3, map.cols + 7, "Map Height    : %d", map.rows);
     mvprintw(i + 4, map.cols + 7, "Square size   : %dx%d", square_size, square_size);
     mvprintw(i + 5, map.cols + 7, "Position x, y : %d, %d", x, y);
+    mvprintw(i + 8, map.cols + 7, "PRESS SPACE TO EXIT");
 }
 
 void put_tab_char(map_info map)
