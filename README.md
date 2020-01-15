@@ -4,13 +4,12 @@
 
 ## HOW TO USE
 
-### REQUIREMENT
+### REQUIREMENTS
 
-```
-gcc
-make
-ncurses (for the bonus)
-```
+* [GCC](https://gcc.gnu.org/)
+* [Make](https://www.gnu.org/software/make/)
+* [NCURSES](https://fr.wikipedia.org/wiki/Ncurses) (for the bonus)
+
 ### USAGES
 
 Compilation
@@ -23,9 +22,18 @@ Execution
 ```
 ./bsq maps/map1
 ```
+
 ### BONUS
 
 Go to the bonus directory and do the previous actions.
+
+## MAP FORMAT
+
+* You can find exemples in ```maps``` directory.
+* The first line is the number of lines in the map.
+* The map is only made of ```.```(empty) and ```o```(obstacles) symbols.
+* The map is always a rectangle.
+* All lines have the same size.
 
 ## SCREENSHOTS
 
