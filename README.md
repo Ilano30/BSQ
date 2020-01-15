@@ -31,7 +31,7 @@ Go to the bonus directory and do the previous actions.
 
 * You can find exemples in ```maps``` directory.
 * The first line is the number of lines in the map.
-* The map is only made of ```.```(empty) and ```o```(obstacles) symbols.
+* The map is only made of ```.``` (empty) and ```o``` (obstacles) symbols.
 * The map is always a rectangle.
 * All lines have the same size.
 
