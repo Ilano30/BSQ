@@ -38,4 +38,4 @@ Go to the bonus directory and do the previous actions.
 
 ## AUTHOR
 
-* **Ilan Benarroche** - [Ilano30](https://github.com/Ilano30)
+* **Ilan Benarroche** - ([Github](https://github.com/Ilano30) / [LinkedIn](https://www.linkedin.com/in/ilan-benarroche-1a9b33173/))
